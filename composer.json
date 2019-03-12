@@ -1,0 +1,10 @@
+{
+    "name": "yueguan/phpnats2",
+    "authors": [
+        {
+            "name": "guan yue",
+            "email": "yueguan666@gmail.com"
+        }
+    ],
+    "require": {}
+}
