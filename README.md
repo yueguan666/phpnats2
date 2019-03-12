@@ -1,7 +1,7 @@
 phpnats-copy
 =======
 
-**Travis**
+**Travi**
 
 | Master  | Develop |
 | ------------- | ------------- |
