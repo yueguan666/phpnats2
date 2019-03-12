@@ -1,4 +1,4 @@
-phpnats
+phpnats-copy
 =======
 
 **Travis**
