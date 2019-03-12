@@ -6,5 +6,11 @@
             "email": "yueguan666@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Nats": "src",
+            "Nats\\Test": "src"
+        }
+    }
 }
